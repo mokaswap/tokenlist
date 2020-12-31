@@ -1,6 +1,6 @@
 {
   "name": "mokaswap",
-  "logoURI": "",
+  "logoURI": "https://raw.githubusercontent.com/mokaswap/tokenlist/main/moka.svg",
   "keywords": [
     "mokaswap",
     "defi"
@@ -13,7 +13,7 @@
       "name": "Heco-Peg HBTC Token",
       "symbol": "HBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/tokenlist/main/idt.svg"
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/tokenlist/main/btc.svg"
     },
     {
       "chainId": 128,
@@ -21,7 +21,7 @@
       "name": "Heco-Peg HETH Token",
       "symbol": "HETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/tokenlist/main/idt.svg"
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/tokenlist/main/eth.svg"
     },
     {
       "chainId": 128,
