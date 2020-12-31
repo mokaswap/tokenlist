@@ -42,8 +42,8 @@
     {
       "chainId": 128,
       "address": "0x973845a963d4fcDE86b1C4E6077E619C8b5C171e",
-      "name": "moka",
-      "symbol": "moka",
+      "name": "MOKA",
+      "symbol": "MOKA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/mokaswap/tokenlist/main/moka.svg"
     }
