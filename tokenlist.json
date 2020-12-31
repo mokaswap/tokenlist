@@ -25,7 +25,7 @@
     },
     {
       "chainId": 128,
-      "address": "",
+      "address": "0xBF3dA9338712361caA0100D5a7975D90cDf11Dfc",
       "name": "Heco-Peg HIDT Token",
       "symbol": "HBTC",
       "decimals": 18,
@@ -33,17 +33,9 @@
     },
     {
       "chainId": 128,
-      "address": "",
+      "address": "0xE9e7fA3DAA57464c669aA203399221e576932129",
       "name": "Heco-Peg HGET Token",
       "symbol": "HBTC",
-      "decimals": 18,
-      "logoURI": ""
-    },
-    {
-      "chainId": 128,
-      "address": "",
-      "name": "moka",
-      "symbol": "moka",
       "decimals": 18,
       "logoURI": ""
     }
