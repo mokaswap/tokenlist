@@ -1,0 +1,56 @@
+{
+  "name": "mokaswap",
+  "logoURI": "",
+  "keywords": [
+    "mokaswap",
+    "defi"
+  ],
+  "timestamp": "2020-12-18T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "chainId": 128,
+      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+      "name": "Heco-Peg HBTC Token",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 128,
+      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+      "name": "Heco-Peg HETH Token",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 128,
+      "address": "",
+      "name": "Heco-Peg HIDT Token",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 128,
+      "address": "",
+      "name": "Heco-Peg HGET Token",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 128,
+      "address": "",
+      "name": "moka",
+      "symbol": "moka",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
